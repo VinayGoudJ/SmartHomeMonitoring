@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "ai-smart-home-solution",
+    "libraryId": "a4fa3a67-f912-420c-b6b6-9aa876cf7825",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "AI_Smart_Home_Solution",
+    "solutionShortDescription": "AI_Smart_Home_Solution description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
