@@ -72,7 +72,7 @@ export default class AiSmartHomeWebpart extends React.Component<
     public render(): React.ReactElement<IAiSmartHomeWebpartProps> {
         const { description, environmentMessage, hasTeamsContext, userDisplayName } = this.props;
 
-        // Data for Motion Detection Chart // new changes added in
+        // Data for Motion Detection Chart // new changes added in dev 
         const motionChartData = {
             labels: this.state.motionData.map(item => item.Timestamp),
             datasets: [
