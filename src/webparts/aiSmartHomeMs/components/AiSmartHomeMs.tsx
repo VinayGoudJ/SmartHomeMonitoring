@@ -29,7 +29,7 @@ export default class AiSmartHomeMs extends React.Component<IAiSmartHomeMsProps> 
           <h4>Learn more about SPFx development:</h4>
           <ul className={styles.links}>
            
-            <li><a href="https://aka.ms/spfx-yeoman-api" target="_blank" rel="noreferrer">SharePoint Framework API reference</a></li>
+          
             <li><a href="https://aka.ms/m365pnp" target="_blank" rel="noreferrer">Microsoft 365 Developer Community</a></li>
           </ul>
         </div>
