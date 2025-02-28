@@ -26,7 +26,7 @@ export default class AiSmartHomeMs extends React.Component<IAiSmartHomeMsProps> 
           <p>
             Microsoft Viva, Microsoft Teams and SharePoint.
           </p>
-          <h4>Learn more about SPFx development:</h4>
+          <h4>Here the main changes in SPFx development:</h4>
           <ul className={styles.links}>
            
           
