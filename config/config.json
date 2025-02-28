@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "ai-smart-home-ms-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/aiSmartHomeMs/AiSmartHomeMsWebPart.js",
+          "manifest": "./src/webparts/aiSmartHomeMs/AiSmartHomeMsWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "AiSmartHomeMsWebPartStrings": "lib/webparts/aiSmartHomeMs/loc/{locale}.js"
+  }
+}
