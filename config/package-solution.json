@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ai-smart-home-ms-client-side-solution",
+    "id": "190eb405-605a-426d-9760-0396249d35fa",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "AISmartHomeMS description"
+      },
+      "longDescription": {
+        "default": "AISmartHomeMS description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "ai-smart-home-ms Feature",
+        "description": "The feature that activates elements of the ai-smart-home-ms solution.",
+        "id": "efd1403e-8148-42c8-bb09-ba991ceeef90",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/ai-smart-home-ms.sppkg"
+  }
+}
