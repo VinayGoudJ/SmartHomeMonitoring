@@ -24,7 +24,7 @@ export default class AiSmartHomeMs extends React.Component<IAiSmartHomeMsProps> 
         <div>
           <h2>Welcome to SharePoint Framework CRUD Operations</h2>
           <p>
-            It is extensibility model for Microsoft Viva, Microsoft Teams and SharePoint.
+            Microsoft Viva, Microsoft Teams and SharePoint.
           </p>
           <h4>Learn more about SPFx development:</h4>
           <ul className={styles.links}>
